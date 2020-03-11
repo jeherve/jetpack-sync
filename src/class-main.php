@@ -17,7 +17,6 @@ class Main {
 
 	/**
 	 * Sets up event handlers for the Sync package. Is used from the Config package.
-	 * More changes
 	 *
 	 * @action plugins_loaded
 	 */
