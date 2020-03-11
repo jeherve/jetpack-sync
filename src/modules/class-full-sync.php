@@ -27,6 +27,7 @@ use Automattic\Jetpack\Sync\Settings;
 class Full_Sync extends Module {
 	/**
 	 * Prefix of the full sync status option name.
+	 * and a change.
 	 *
 	 * @var string
 	 */
